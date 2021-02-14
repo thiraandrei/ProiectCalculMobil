@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zero">0</string>
+    <string name="unu">1</string>
+    <string name="doi">2</string>
+    <string name="trei">3</string>
+    <string name="patru">4</string>
+    <string name="cinci">5</string>
+    <string name="sase">6</string>
+    <string name="sapte">7</string>
+    <string name="opt">8</string>
+    <string name="noua">9</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="paranteze">( )</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="impartire">÷</string>
+    <string name="inmultire">×</string>
+    <string name="plusminus">+/-</string>
+    <string name="punct">.</string>
+    <string name="egal">=</string>
+
+    <string name="backspace"> </string>
+    <string name="display">Adauga o valoare</string>
+    <string name="c">C</string>
+</resources>
